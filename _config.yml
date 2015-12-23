@@ -1,0 +1,28 @@
+name: nvanexan
+favicon: null
+layout_spectrum: 0.020132591016590595
+typography_spectrum: 0.04476293851621449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7959878088440746
+  lightness: 0.8587380391545594
+  saturation: 0.8707046895287931
+  rhythmicContrast: 0.48610359872691333
+purpose: []
